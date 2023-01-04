@@ -6,7 +6,7 @@ email:
   text: yongkunliu.mail@gmail.com
   
 homepage:
-  url: kyle-one.github.io/cv/
+  url: https://kyle-one.github.io/cv/index.html
   text: English
   
 phone:
