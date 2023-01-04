@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yongkun Liu123
+title: Yongkun
 email:
   url: mailto:yongkunliu.mail@gmail.com
   text: yongkunliu.mail@gmail.com
