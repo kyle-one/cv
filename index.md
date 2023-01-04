@@ -4,7 +4,7 @@ title: Yongkun Liu
 email:
   url: mailto:yongkunliu.mail@gmail.com
   text: yongkunliu.mail@gmail.com
-cn:
+homepage:
   url: kyle-one.github.io/cv-cn/
   text: cn language
 <!-- homepage:
