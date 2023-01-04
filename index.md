@@ -36,13 +36,7 @@ Pittsburgh, PA
 
 ## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+### K. Zhao, Y. Liu, S. Hao, S. Lu, H. Liu and L. Zhou, "Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3064316. 
 
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
