@@ -36,7 +36,7 @@ Pittsburgh, PA
 
 ## Publications
 
-### [**Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings**](https://arxiv.org/abs/2208.02613)
+### [**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**](https://arxiv.org/abs/2208.02613)
  **Yongkun Liu**, Kun Zhao, Kesong Ni, Yuhan Zhang and Lijian Zhou.<br> 
 _arXiv preprint._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
