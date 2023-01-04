@@ -36,31 +36,21 @@ Pittsburgh, PA
 
 ## Publications
 
+### [**Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings**](https://arxiv.org/abs/2208.02613)
+ **Yongkun Liu**, Kun Zhao, Kesong Ni, Yuhan Zhang and Lijian Zhou.<br> 
+_arXiv preprint._<br>
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[www]([http://penrose.ink/siggraph20.html](https://arxiv.org/abs/2208.02613))]
+[[repo](https://github.com/penrose/penrose)]
 
 ### [**Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings**](https://ieeexplore.ieee.org/document/9380541)
-Kun Zhao, **Y. Liu**, Siwen Hao, Shaoxing Lu, Hongbin Liu and Lijian Zhou.<br> 
+Kun Zhao, **Yongkun Liu**, Siwen Hao, Shaoxing Lu, Hongbin Liu and Lijian Zhou.<br> 
 _IEEE Transactions on Geoscience and Remote Sensing._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
+<!-- 
 ## Experience
 ### **Apple** `2022.5 - 2022.9`
 
@@ -90,10 +80,12 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 [Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
 
 ---
-
+ -->
+ 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
+waiting...
+<!-- CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
 Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
@@ -102,23 +94,16 @@ Computer Science Departmental Honors `Dickinson, 2016` <br>
 Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+John Montgomery Scholarship `Dickinson, 2013` <br> -->
 
 
-## Service
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
+## Others
+
+waiting...
+<!-- Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br>
+Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br> -->
 
 <!-- ### Footer
 
