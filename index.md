@@ -36,7 +36,7 @@ Pittsburgh, PA
 
 ## Publications
 
-### K. Zhao, Y. Liu, S. Hao, S. Lu, H. Liu and L. Zhou, "Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3064316. 
+### [1] K. Zhao, **Y. Liu**, S. Hao, S. Lu, H. Liu and L. Zhou, "Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3064316. 
 
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
