@@ -34,17 +34,18 @@ phone:
 ### [**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**](https://arxiv.org/abs/2208.02613)
  **Yongkun Liu**, Kun Zhao, Kesong Ni, Yuhan Zhang and Lijian Zhou.<br> 
 _arXiv preprint._<br>
-第一作者，在投
-贡献：**独立**完成所有工作
+第一作者，在投；<br> 
+贡献：**独立**完成所有工作；<br> 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[www]([http://penrose.ink/siggraph20.html](https://arxiv.org/abs/2208.02613))]
 [[repo](https://github.com/penrose/penrose)]
 
 ### [**Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings**](https://ieeexplore.ieee.org/document/9380541)
 Kun Zhao, **Yongkun Liu**, Siwen Hao, Shaoxing Lu, Hongbin Liu and Lijian Zhou.<br> 
-第二作者，导师一作；JCR Q1；TOP期刊；
-贡献：建筑物数据集标注、编码方式的构建、实验设计/代码编写、撰写论文初稿、项目维护；
 _IEEE Transactions on Geoscience and Remote Sensing._<br>
+第二作者，导师一作；JCR Q1；TOP期刊；<br> 
+贡献：建筑物数据集标注、编码方式的构建、实验设计/代码编写、撰写论文初稿、项目维护；<br> 
+
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
@@ -60,7 +61,8 @@ _IEEE Transactions on Geoscience and Remote Sensing._<br>
 慧识创新工作室负责人  `2020.5 - 2022.6`
 - 为团队成员撰写服务器远程使用指南、Pytorch基础教程。带领团队入职校创业孵化基地。
 - 协助导师组织本科生科研团队，丰富科研梯队；指导工作室同学申报国家大学生创新创业项目；指导工作室同学参加相关竞赛。
-- 
+
+
 无线电运动协会副会长 `2019.9 - 2020.6`
 - 组织新生课外学习C语言编程，为学校电子设计大赛/科研团队输送人才
 
