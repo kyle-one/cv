@@ -2,11 +2,11 @@
 layout: cv
 title: Yongkun Liu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
+  url: mailto:yongkunliu.mail@gmail.com
+  text: yongkunliu.mail@gmail.com
+<!-- homepage:
   url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  text: cs.cmu.edu/~woden -->
 ---
 
 # Yongkun Liu
