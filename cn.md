@@ -14,7 +14,7 @@ phone:
 
 ---
 
-# Yongkun Liu
+# Yongkun
 
 <!--
 include contact information from the front matter
