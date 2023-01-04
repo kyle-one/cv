@@ -7,7 +7,6 @@ email:
 homepage:
   url: kyle-one.github.io/cv-cn/
   text: cn language
-| [Global Channel](https://arxiv.org/abs/2208.02613)
 <!-- homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden -->
