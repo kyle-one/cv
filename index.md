@@ -4,9 +4,13 @@ title: Yongkun Liu
 email:
   url: mailto:yongkunliu.mail@gmail.com
   text: yongkunliu.mail@gmail.com
+cn:
+  url: kyle-one.github.io/cv-cn/
+  text: cn language
 <!-- homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden -->
+
 ---
 
 # Yongkun Liu
