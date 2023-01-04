@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yongkun
+title: 刘永琨的简历
 email:
   url: mailto:yongkunliu.mail@gmail.com
   text: yongkunliu.mail@gmail.com
@@ -14,7 +14,7 @@ phone:
 
 ---
 
-# Yongkun
+# 刘永琨
 
 <!--
 include contact information from the front matter
