@@ -8,8 +8,7 @@ homepage:
   url: kyle-one.github.io/cv-cn/
   text: cn language
 phone:
-  text: 13078884114
-  url: kyle-one.github.io/cv/
+  13078884114
 
 
 
