@@ -5,7 +5,7 @@ email:
   url: mailto:yongkunliu.mail@gmail.com
   text: yongkunliu.mail@gmail.com
 homepage:
-  url: kyle-one.github.io/cv/cn/
+  url: https://kyle-one.github.io/cv/cn.html
   text: cn language
 phone:
   13078884114
