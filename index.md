@@ -25,9 +25,6 @@ Supported arguments:
 
 ### **Qingdao University of Technology** `2019.9 - now`
 
-```
-Pittsburgh, PA
-```
 
 - School of Information and Control Engineering
 - xxxxx
