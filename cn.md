@@ -4,9 +4,11 @@ title: 刘永琨的简历
 email:
   url: mailto:yongkunliu.mail@gmail.com
   text: yongkunliu.mail@gmail.com
+  
 homepage:
   url: kyle-one.github.io/cv-cn/
   text: cn language
+  
 phone:
   13078884114
 
@@ -26,17 +28,16 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### **Qingdao University of Technology** `2019.9 - now`
-
-
-- School of Information and Control Engineering
-- xxxxx
+### **青岛理工大学 计算机科学与技术 本科** `2018.9 - 2022.6`
 
 
+- 排名：前20%; 六级:501; 
 
-## Publications
+
+
+## 研究经历
 
 ### [**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**](https://arxiv.org/abs/2208.02613)
  **Yongkun Liu**, Kun Zhao, Kesong Ni, Yuhan Zhang and Lijian Zhou.<br> 
