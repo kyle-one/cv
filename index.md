@@ -9,6 +9,7 @@ homepage:
   text: cn language
 phone:
   text: 13078884114
+  url: kyle-one.github.io/cv/
 
 
 
